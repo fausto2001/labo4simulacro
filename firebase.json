@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "labo-iv-simulacro",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

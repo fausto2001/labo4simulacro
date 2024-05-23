@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "labo-iv-a8ace": {
+      "hosting": {
+        "labo-iv-simulacro": [
+          "labo-iv-a8ace"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "labo-iv-a8ace"
+  }
+}
